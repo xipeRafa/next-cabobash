@@ -9,6 +9,7 @@ const Container = (props) => {
                   </Head>
                     
                   <div>banner</div>  
+                  
                   <Nav />
 
                   <div className='container'>
